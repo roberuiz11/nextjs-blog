@@ -1,2 +1,1 @@
-# nextjs-blog
-Next js official page tutorial
+Next js official page tutorial (blog app)
